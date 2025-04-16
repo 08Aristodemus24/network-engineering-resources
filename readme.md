@@ -98,6 +98,10 @@ Ethernet adapter Ethernet:
 ```
 therefore 178 in binary is 0100 1101 or as an octet
 
+all that you've learned from web development like routing, ports, client and server side, databases, HTTP requests, cross origin resource sharing, you need in network engineering
+
+a port you can think of as numbers 5000, 8000, 8080, 80, 51763, 5555, that succeed a host (machines) ip address e.g. `localhost`, `127.0.0.1` which is separated by a colon `:`.
+`http://localhost:8000` or `https://localhost:8000`. Here `localhost` is used a generic mask to mask the real ip address of a host machien since you never want to expose your host machines ip address or it'll be vulnerable to attacks
 
 ## after learning, certification, and creating projects in your job search you need to start either in the following roles before even landing a junior network engineering role:
 IT helpdesk analyst
@@ -141,6 +145,8 @@ in order to run npm, choco, react, svelte you need node.js installed in your mac
 in order to run conda you need to have conda installed in your machine which may have missing dll files also that you need to add.
 
 Once these are all installed you'd have to their paths to the PATH variable of the system environment variables
+
+
 
 # Articles, videos, papers, etc.
 * networking fundamentals: https://www.youtube.com/watch?v=bj-Yfakjllc&list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi&index=1
