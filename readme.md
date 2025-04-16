@@ -104,6 +104,43 @@ IT helpdesk analyst
 IT helpdesk 
 ISP (internet service provider) technician
 IT support technician
+desktop support technician
+IT technician
+
+
+### Helpdesk tools you can use for automation and ease:
+- Windirstat for checking ehich files are too big
+
+### Scenarios user faces that you'll need to fix:
+Installing drivers for videos sound, graphics
+Media players not having sound or not playing is a driver issue
+Cant connect to the Internet not connecting maybe a problem with Ethernet cable, maybe a restart is im order so ask user to save his work before restarting 
+Internet is slow, this maybe due to chrome or any browser having too much tabs open i.e. 20 and not clearing a profiles cache
+Users not being able to send emails can be due to the storage limit of a google account and you cant send or receive emails because of the cap. Another can be because of having slow or no internet.
+This program is crashing.
+I can't open this file.
+I need help installing a software update.
+My printer isn't working.
+My computer won't boot.
+I have a blue screen error
+My computer won't let me log in. You have to reboot and enter safe mode
+I forgot my password. You have to login as admin and change the password
+My account isn't working.
+
+Remember the times when you had to F11 during OS boot and enter the BIOS basic input output system interface
+
+In windows 11 youd be pressing f2, f10, or delete to enter bios interface
+
+learning to install drivers for printers, mouses, keyboards, microphones, headphones
+
+installing directX for applications/software that may use it as a dependenciy. Just like installing packages in python which may have dependencies to other packages softwares may also require other software in order to work. I.e. in order to run a C/C++ compiler you need mingw installer and have the gcc/g++ packages installed
+
+in order to run a python app you need python3 installed
+in order to run npm, choco, react, svelte you need node.js installed in your machine
+
+in order to run conda you need to have conda installed in your machine which may have missing dll files also that you need to add.
+
+Once these are all installed you'd have to their paths to the PATH variable of the system environment variables
 
 # Articles, videos, papers, etc.
 * networking fundamentals: https://www.youtube.com/watch?v=bj-Yfakjllc&list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi&index=1
